@@ -1,0 +1,1 @@
+# G513QR-macOS13-efi
